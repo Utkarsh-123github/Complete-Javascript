@@ -1,0 +1,1 @@
+This repo contains all of the JS learnings and some minor projects.
